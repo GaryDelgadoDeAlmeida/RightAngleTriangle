@@ -1,0 +1,7 @@
+C:\Users\garya\Documents\Developpment\Application\C#\RightAngleTriangle\RightAngleTriangle\bin\Debug\RightAngleTriangle.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\RightAngleTriangle\RightAngleTriangle\bin\Debug\RightAngleTriangle.exe
+C:\Users\garya\Documents\Developpment\Application\C#\RightAngleTriangle\RightAngleTriangle\bin\Debug\RightAngleTriangle.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\RightAngleTriangle\RightAngleTriangle\obj\Debug\RightAngleTriangle.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\RightAngleTriangle\RightAngleTriangle\obj\Debug\RightAngleTriangle.exe
+C:\Users\garya\Documents\Developpment\Application\C#\RightAngleTriangle\RightAngleTriangle\obj\Debug\RightAngleTriangle.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\RightAngleTriangle\RightAngleTriangle\obj\Debug\RightAngleTriangle.csprojAssemblyReference.cache
